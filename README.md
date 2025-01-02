@@ -1,4 +1,4 @@
-# recetario-veracruz
+# Recetario veracruz
 Recetarios veracruzanos de María Luisa Jiménez Hernández.
 Estos recetarios están en formato PDF y Epub.
 
