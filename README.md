@@ -1,5 +1,5 @@
-# Recetario veracruz
-Recetarios veracruzanos de María Luisa Jiménez Hernández.
+# Recetario para casarse
+Recetarios de María Luisa Jiménez Hernández.
 Estos recetarios están en formato PDF y Epub.
 
 Esta libreta de recetas de cocina la hizo María Luisa Jiménez Hernández aproximadamente en el año 1931, un año antes de casarse. Este recetario tiene como fin compartir con la familia de María Luisa, pero también con cualquiera que guste de la comida de Veracruz.
